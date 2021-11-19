@@ -1,0 +1,2 @@
+Prefix plugins/BetaInAndOut/example
+Plugin BetaInAndOut inputfile parameters.inandout.txt outputfile betadiversity.inandout.csv
